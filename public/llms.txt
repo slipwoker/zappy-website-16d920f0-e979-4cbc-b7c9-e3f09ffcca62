@@ -1,0 +1,89 @@
+# Poke cards IL (קלפי פוקימון ישראל) — Generative Engine Optimization Map
+
+> A comprehensive Pokémon TCG collectibles platform that blends the functionality of TCGPlayer, PokeCollector, and PriceCharting. The site will serve as a one-stop hub for Pokémon card collectors and investors, featuring complete set listings organized by generation, card images, real-time or updated pricing data, and collection tracking tools. The vibe is enthusiast-driven, data-rich, and visually immersive — combining the nostalgia and excitement of Pokémon with the precision of a financial tracking tool.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+קלפי פוקימון מחירים עדכניים בזמן אמת, קטלוג מלא לפי דורות, וכלי מעקב אוסף חכמים. הפלטפורמה המקיפה ביותר לאספנים ומשקיעים בישראל. התחל לגלות עכשיו!
+
+### שירותים
+https://example.com/services
+השוואת מחירי קלפי פוקימון, מעקב ערך אוסף אישי, וניתוח השקעות בקלפים נדירים — כל השירותים שאספן מקצועי צריך במקום אחד. גלה את הכלים שלנו היום!
+
+### אודות
+https://example.com/about
+נולדנו מתוך אהבה לפוקימון TCG ומחויבות לקהילת האספנים בישראל. גלה כיצד בנינו את קטלוג קלפי פוקימון ישראל המקיף ביותר, ומה מניע אותנו לחדש כל יום.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על קלפי פוקימון נדירים להשקעה, תמחור, או שיתוף פעולה? צוות המומחים שלנו זמין עבורך. שלח לנו הודעה עכשיו ותקבל מענה מקצועי מהיר מאספנים אמיתיים!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Poke cards IL (קלפי פוקימון ישראל)
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Poke cards IL (קלפי פוקימון ישראל)
+
+### Category
+https://example.com/category/:slug
+מוצרים - Poke cards IL (קלפי פוקימון ישראל)
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Poke cards IL (קלפי פוקימון ישראל)
+A comprehensive Pokémon TCG collectibles platform that blends the functionality of TCGPlayer, PokeCollector, and PriceCharting. The site will serve as a one-stop hub for Pokémon card collectors and investors, featuring complete set listings organized by generation, card images, real-time or updated pricing data, and collection tracking tools. The vibe is enthusiast-driven, data-rich, and visually immersive — combining the nostalgia and excitement of Pokémon with the precision of a financial tracking tool.
+
+## Services/Products
+- קטלוג סטים וקלפים לפי גנרציות
+- מחירים עדכניים לקלפים
+- תמונות קלפים
+- מעקב אחר אוסף אישי
+- השוואת מחירים בין פלטפורמות
+
+## Target Audience
+- אספני קלפי פוקימון, שחקני TCG, משקיעים בקלפים
+- אספני פוקימון וותיקים
+- שחקני TCG נלהבים
+- משקיעי קלפים אנליסטים
+- אספנים חדשים צעירים
+
+## Industry
+Collectibles & Trading Card Games
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
